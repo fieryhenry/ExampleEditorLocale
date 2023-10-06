@@ -13,12 +13,14 @@ translate the `README.md` file if you want.
 2. Edit the `locale.json` file
 3. Edit the .properties files in the `files` folder (the names of the files
    don't matter)
-4. Install [git](https://git-scm.com/downloads) and
+4. Install [git](https://git-scm.com/downloads)
 5. In the editor, go to `Edit config` -> `Language` -> `Add Locale`
 6. Enter the URL of your forked repo (with the `.git` at the end)
 7. Restart the editor to see the changes
-8. Any strings that are not overwritten in your locale will be taken from the
-   default locale (English)
+
+The locale will be cloned into the `external_locales` folder in `bcsfe` in your
+documents folder. The folder name will be `ext-<author>-<short_name>` so that
+collisions with other locales are avoided.
 
 ## Locale.json file
 
@@ -55,6 +57,9 @@ save_load_option=Select an option to load the save file
 ```
 
 If you duplicate a key, the editor will throw an error.
+
+Any strings that are not overwritten in your locale will be taken from the
+   default locale (English)
 
 ### Newlines
 
