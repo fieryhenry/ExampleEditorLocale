@@ -7,6 +7,10 @@ If you want to make your own locale for the editor, you can fork this repo and
 edit the `locale.json` file and files in the `files` folder. You can also
 translate the `README.md` file if you want.
 
+If you need help, or want any extra features, you can join the [Discord
+server](https://discord.gg/DvmMgvn5ZB) and ask in the `#tool-dev` channel, or
+make suggestions in the `#suggestions` channel.
+
 ## How to make a locale
 
 1. Fork this repo
