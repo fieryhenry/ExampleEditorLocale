@@ -25,9 +25,7 @@ translate the `README.md` file if you want.
 The `locale.json` file contains some metadata about the locale. Here are what
 the different fields mean:
 
-- `short_name`: The short code for the locale (e.g. `en` for English). This
-  should be unique as it is the key used in the config file and the internal
-  folder name used in the editor for your locale.
+- `short_name`: The short code for the locale (e.g. `en` for English).
 - `name`: The name of the locale (e.g. `English`). This is what will be shown in
   the editor to the user.
 - `author`: The name of the author of the locale.
