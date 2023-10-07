@@ -245,8 +245,6 @@ Details about what each color is used for can be found [here](https://github.com
 Please use these colors instead of hex colors or color names as they take into
 account the user's theme.
 
-Primary is the color used if no color is specified.
-
 ### Conditional strings
 
 You can change the string depending on the value of a variable.
