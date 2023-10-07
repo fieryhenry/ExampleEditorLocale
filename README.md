@@ -218,7 +218,8 @@ Here is a list of all the color names you can use:
 - `o`: Orange
 
 Again, I don't recommend using color names as they don't take into account the
-user's theme.
+user's theme. The only time when these should be used is if the specific color
+actually matters, e.g if you want to color the word `red` red, or `aku` cyan.
 
 #### Theme colors
 
