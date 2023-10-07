@@ -240,6 +240,8 @@ Here is a list of all the theme colors you can use:
 - `t`: Tertiary
 - `q`: Quaternary
 
+Details about what each color is used for can be found [here](https://github.com/fieryhenry/ExampleEditorTheme#themejson-file)
+
 Please use these colors instead of hex colors or color names as they take into
 account the user's theme.
 
