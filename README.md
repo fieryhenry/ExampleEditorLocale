@@ -15,8 +15,8 @@ make suggestions in the `#suggestions` channel.
 
 1. Fork this repo
 2. Edit the `locale.json` file
-3. Edit the .properties files in the `files` folder (the names of the files
-   don't matter)
+3. Edit the .properties files in the `files` folder (the names of the
+   files and the folders they are contained in don't matter)
 4. Install [git](https://git-scm.com/downloads)
 5. In the editor, go to `Edit config` -> `Language` -> `Add Locale`
 6. Enter the URL of your forked repo (with the `.git` at the end)
@@ -46,8 +46,8 @@ the different fields mean:
 
 The `files` folder contains the actual translations for the text in the editor.
 The files have the `.properties` extension, but they are just text files. The
-name of the files doesn't matter, but it is recommended to use the same name as
-the English file that you are translating.
+names of the files don't matter, nor do the folder names, but it is recommended
+to use the same name as the English file that you are translating.
 
 ## Format of the .properties files
 
